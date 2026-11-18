@@ -16,7 +16,7 @@
 
 * Профиль с проектами: [GitHub](https://github.com/example "Профиль GitHub")
 * Профессиональный трек: [LinkedIn](https://linkedin.com/in/example "Профиль LinkedIn")
-* Оперативная связь: [Telegram](https://t.me/example "Написать в Telegram")
+* Оперативная связь: [Telegram](https://t.me/iopds "Написать в Telegram")
 
 <style scoped>
 .profile-section {
